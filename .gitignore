@@ -10,3 +10,4 @@ _drafts
 /_assets/bower/*
 /vendor/bundle
 npm-debug.log
+*.swp
