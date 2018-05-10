@@ -43,7 +43,7 @@ Go                      * *
 javascript              * * *
 React                   * * *
 React Native            * * *
-wechat applet           * * *
+wechat applet           * * 
 MiniTest                * * 
 Linux                   * * *
 </pre>
