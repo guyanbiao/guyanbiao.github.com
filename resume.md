@@ -21,7 +21,7 @@ permalink: /resume/
 ###  【广州】 深圳车事易汽车科技有限公司 2015.6 - 今
 公司有线下业务，主要是给企业客户停供车辆维修养护保险服务，主要客户是瑞卡租车、首汽租车这样的租车公司，系统提供一套客户下单，技师维修的整个的流程的支持，包括财务、仓储，我参与构建网站，api，实现了第一个版本的技师端，用的框架是 <span class="tutu">React</span>。
 
-期间也用 <span class="tutu">React Native</span> 做了一个 app，适配 Android 和 iOS。
+期间也用 <span class="tutu">React Native</span> 做了一个 app，适配 Android 和 iOS。也用微信<span class="tutu">小程序</span>实现了一个监控功能的 app。
 
 比较重要的一个模块是 obd( 车载诊断系统 )，合作硬件厂商提供硬件，制定二进制的私有通讯协议，通过 socket 的方式把车辆数据发送到 服务器，第一个版本是用 celluoid 加 Active Record 实现，存储过程也是 ruby 脚本，用 <span class="tutu">Redis</span> 的 list 做队列，数据库用 Postgres 第二个版本的 socket 服务器使用 <span class="tutu">elixir</span> 实现的，存储过程用了 <span class="tutu">go</span> 和 ruby，数据库使用 <span class="tutu">Postgres</span> 加上阿里云提供的<span class="tutu">表格存储</span>
 
@@ -54,6 +54,8 @@ Linux                   * * *
 跟同事沟通比较顺畅，学习能力比较强，能快速应用到实践中。很能站在用户的角度看产品，善于从用户角度出发把控产品质量。
 
 希望公司有简单高效的管理方式，同事比较 nice，可以让我长期工作下去，有所作为。
+
+接受 ruby go elixir 和 前端的工作，我经验主要以后端为主，前端也可以胜任
 
 ## 链接
 
